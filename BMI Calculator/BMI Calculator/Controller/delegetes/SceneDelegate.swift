@@ -2,7 +2,8 @@
 //  SceneDelegate.swift
 //  BMI Calculator
 //
-//  Created by Hamza Butt on 12/15/22.
+//  Created by Brendan Rodrigues 301119016 on 12/15/22.
+//  MAPD714 Final Exam
 //
 
 import UIKit
